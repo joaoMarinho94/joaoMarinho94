@@ -6,6 +6,7 @@
 
 #### :books: Skills
 
+<img title="SAAS" height="25" src="https://github.com/joaoMarinho94/joaoMarinho94/blob/main/images/docker.png">
 
 #### :clipboard: GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaoMarinho94&show_icons=true&theme=dracula)](https://github.com/joaoMarinho94/github-readme-stats)

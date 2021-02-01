@@ -30,5 +30,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaoMarinho94&show_icons=true&theme=dracula)](https://github.com/joaoMarinho94/github-readme-stats)
 
 #### :bar_chart: Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMarinho94&theme=dracula&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMarinho94&theme=dracula&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 

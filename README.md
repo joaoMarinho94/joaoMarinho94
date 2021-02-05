@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaopaulim94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulim94@gmail.com)](mailto:joaopaulim94@gmail.com)
 [![Sourcerer Badge](https://img.shields.io/badge/Sourcerer-joaomarinho94-yellowgreen?style=flat-square)](https://sourcerer.io/joaomarinho94)
 
+![](https://komarev.com/ghpvc/?username=joaoMarinho94)
+
 #### :books: Skills
 <p>
   <img title="HTML5" height="50" src="https://github.com/joaoMarinho94/joaoMarinho94/blob/main/images/html5.png">
